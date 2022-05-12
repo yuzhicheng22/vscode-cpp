@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp"
+    },
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc $fileName -o  D:/Desktop/Code/vscode-cpp/code/temp/$fileNameWithoutExt &&  D:/Desktop/Code/vscode-cpp/code/temp/$fileNameWithoutExt",
+    },
+}
